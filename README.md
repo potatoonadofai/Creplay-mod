@@ -6,7 +6,6 @@
 
 ## 兼容性
 仅能在Windows系统工作。测试所用的环境为adofai v2.9.1/v2.9.5，与adofaitweaks、keyviewer、判定区间显示、potato effect remover等模组兼容。
-已知和jipper资源包中的按键显示模组不兼容。
 （无法保证绝对不出bug，请不要因为装了这个mod就不开录屏，以防万一！）
 
 ## 更新日志
