@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "1.14",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v1.14/Creplay295.zip",
-      "Changes": "v1.14 update\n保存的文件后缀名改为.crpl2，使用新的格式保存数据，回放文件体积减少70%以上，同时旧的.crpl文件依然可以被正常加载\n更改了保存文件时的一些行为，现在如果保存失败则不会阻止玩家继续尝试保存，你可以尝试解决问题后重新保存以避免数据丢失（但是很遗憾，如果保存出错的话即使采取了补救措施也大概率无法挽回音频文件）\n加入了mod主页和更新地址的参数，现在在游戏设置界面中会显示mod主页按钮和是否有可用更新\n增加了一些debug功能"
+      "Version": "1.15",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v1.15/Creplay295.zip",
+      "Changes": "v1.15 update\n修复了一个bug，即当关卡中有存档点时，拼接文件名时会错误的将玩家经过的最后一个存档点当作起点来计算进度（仅影响文件名）"
     }
   ]
 }
