@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "1.15",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v1.15/Creplay295.zip",
-      "Changes": "v1.15 update\n修复了一个bug，即当关卡中有存档点时，拼接文件名时会错误的将玩家经过的最后一个存档点当作起点来计算进度（仅影响文件名）"
+      "Version": "1.16",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v1.16/Creplay295.zip",
+      "Changes": "v1.16 update\n修复了模拟某些特殊按键时无法被一些软件正常识别的bug"
     }
   ]
 }
