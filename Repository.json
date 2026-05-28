@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "1.16",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v1.16/Creplay295.zip",
-      "Changes": "v1.16 update\n修复了模拟某些特殊按键时无法被一些软件正常识别的bug"
+      "Version": "2.1",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.1/Creplay310.zip",
+      "Changes": "v2.1 update\n适配adofai v3.1.0"
     }
   ]
 }
