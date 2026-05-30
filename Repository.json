@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.1",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.1/Creplay310.zip",
-      "Changes": "v2.1 update\n适配adofai v3.1.0"
+      "Version": "2.0",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.0/Creplay310.zip",
+      "Changes": "v2.0 update\n适配adofai v3.1.0"
     }
   ]
 }
