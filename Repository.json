@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.2",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.2/Creplay310.zip",
-      "Changes": "v2.2 update\n修复2.0/2.1版本中对不同的adofai版本支持不佳的问题，现在此版本可用于目前最新的adofai稳定版本/公开测试版本/前线测试版"
+      "Version": "2.3",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.3/Creplay310.zip",
+      "Changes": "v2.3 update\n修复了自动砖块显示为自动播放的问题\n现在在编辑器中，Creplay正在回放且自动播放开启的情况下，无法再用空格暂停游戏\n加入了异步录制按键的功能，使用此功能需要开启异步输入。此功能启用的情况下，帧率不再影响按键录制的时间精度，但是开始游戏倒计时期间的输入将无法被录入。（此功能尚处于实验阶段，请谨慎使用！）"
     }
   ]
 }
