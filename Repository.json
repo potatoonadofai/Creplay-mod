@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.6",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.6/Creplay310.zip",
-      "Changes": "v2.6 update\n修复3.1.1版本后出现的经过旋转时误击量计有概率显示错误的问题"
+      "Version": "2.7",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.7/Creplay310.zip",
+      "Changes": "v2.7 update\n适配adofai v3.1.2"
     }
   ]
 }
