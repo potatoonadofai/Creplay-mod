@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.7",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.7/Creplay310.zip",
-      "Changes": "v2.7 update\n适配adofai v3.1.2"
+      "Version": "2.8",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.8/Creplay.v2.8.zip",
+      "Changes": "v2.8 update\n现在文件保存失败时会尝试仅以日期作为文件名重新保存，这能解决部分由于曲名过长或含有特殊字符导致的报错。\n进一步完善数据校验机制，现在会检查旋转方向是否正确。修复了诸如90和-270不被视为相同角度导致数据校验不通过的问题。旧文件仍能播放。"
     }
   ]
 }
