@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.8",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.8/Creplay.v2.8.zip",
-      "Changes": "v2.8 update\n现在文件保存失败时会尝试仅以日期作为文件名重新保存，这能解决部分由于曲名过长或含有特殊字符导致的报错。\n进一步完善数据校验机制，现在会检查旋转方向是否正确。修复了诸如90和-270不被视为相同角度导致数据校验不通过的问题。旧文件仍能播放。"
+      "Version": "2.9",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.9/Creplay.v2.9.zip",
+      "Changes": "v2.9 update\n修复了v2.2版本遗留的有极少数情况下录制的文件还是需要先死一次才能播放的问题\n旧文件无法再在此版本上播放\n由于adofaiv3.2.0的改动，异步获取按键数据功能开启时将无法录制到达终点方块后的按键数据，这会造成按键数据缺失（如同没有开启延时保存时那样）。而且，已知此功能和某些输入优化类mod冲突。因此除非你的游戏帧率非常低，否则不建议开启此功能。"
     }
   ]
 }
