@@ -2,7 +2,7 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.10",
+      "Version": "2.11",
       "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.11/Creplay.v2.11.zip",
       "Changes": "v2.11 update\n适配最新alpha版本（r147 cf2d76e）并且不再支持以前的版本\n设置界面的布局进行了一些调整\ndebug模式功能更新\n由于连接tufhelper会导致开始录制时卡一下，现已暂时移除此功能"
     }
