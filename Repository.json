@@ -3,8 +3,8 @@
     {
       "Id": "CreplayMod",
       "Version": "2.10",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.10/Creplay.v2.10.zip",
-      "Changes": "v2.10 update\n事实证明2.9的修复也不足以彻底解决原版留下的误差问题。移除了基于时间的校验，从现在开始绝对不可能再有“必须先死一次才能播放”的情况了。2.9的文件播放不受影响。"
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.11/Creplay.v2.11.zip",
+      "Changes": "v2.11 update\n适配最新alpha版本（r147 cf2d76e）并且不再支持以前的版本\n设置界面的布局进行了一些调整\ndebug模式功能更新\n由于连接tufhelper会导致开始录制时卡一下，现已暂时移除此功能"
     }
   ]
 }
