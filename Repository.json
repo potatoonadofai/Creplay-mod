@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.12",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.12/Creplay.v2.12.zip",
-      "Changes": "v2.12 update\n加入了和ADOFAI Editor Tweaks的联动，现在你可以直接将replay渲染为视频（这部分功能由 @memsys-lizi 编写。十分感谢！）"
+      "Version": "2.13",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.13/Creplay.v2.13.zip",
+      "Changes": "v2.13 update\n由于ADOFAI Editor Tweaks的谱面渲染功能被拆分出来独立为一个mod，现在若要渲染回放需安装ADOFAI.EditorTweaks.ChartRendering mod。\n完全重写了异步获取按键数据功能，不再依赖原版的异步输入。此功能默认开启，若遇到问题，请尝试关闭此功能。\n小幅更改了按键数据存储的数据格式。旧文件仍能加载。\n现在若因游戏更新等原因导致某些补丁失效，将弹窗询问是否无视异常继续加载。若选否，则本mod将禁用所有补丁并保持静默；若选是，请自行负担可能产生的任何后果，包括但不限于特定功能失效、数据丢失等。\n现在若保存路径不存在/不合法/不可靠（可能因mod卸载而被清除），会在设置界面显示警告。\n更改了使用渲染功能时的部分提示信息。"
     }
   ]
 }
