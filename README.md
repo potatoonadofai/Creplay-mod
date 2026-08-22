@@ -6,6 +6,7 @@
 
 ## 兼容性
 仅能在Windows系统工作。与adofaitweaks、keyviewer、判定区间显示、potato effect remover等模组兼容。
+已知与keylimiter mod添加的“‘按键数量限制’事件”不兼容（用于防误触的按键限制模组不在此列）。
 （无法保证绝对不出bug，请不要因为装了这个mod就不开录屏，以防万一！）
 
 ## 更新日志
