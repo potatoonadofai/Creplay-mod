@@ -2,9 +2,9 @@
   "Releases": [
     {
       "Id": "CreplayMod",
-      "Version": "2.13",
-      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.13/Creplay.v2.13.zip",
-      "Changes": "v2.13 update\n由于ADOFAI Editor Tweaks的谱面渲染功能被拆分出来独立为一个mod，现在若要渲染回放需安装ADOFAI.EditorTweaks.ChartRendering mod。\n完全重写了异步获取按键数据功能，不再依赖原版的异步输入。此功能默认开启，若遇到问题，请尝试关闭此功能。\n小幅更改了按键数据存储的数据格式。旧文件仍能加载。\n现在若因游戏更新等原因导致某些补丁失效，将弹窗询问是否无视异常继续加载。若选否，则本mod将禁用所有补丁并保持静默；若选是，请自行负担可能产生的任何后果，包括但不限于特定功能失效、数据丢失等。\n现在若保存路径不存在/不合法/不可靠（可能因mod卸载而被清除），会在设置界面显示警告。\n更改了使用渲染功能时的部分提示信息。"
+      "Version": "2.14",
+      "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.14/Creplay.v2.14.zip",
+      "Changes": "v2.14 update\n修复包括但不限于异步获取按键的bug、设置界面排版错误等的若干问题。\n将异步获取按键数据划为实验性功能。如果你的游戏帧率不高，或者想要更流畅的按键显示，可尝试开启此功能进行录制，但在使用此功能进行正式的录制之前请自行测试此功能能否在你的电脑上正常工作。\n加入了几条新的警告信息。"
     }
   ]
 }
