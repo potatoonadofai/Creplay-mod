@@ -125,6 +125,7 @@
 - v2.16 2026/10/13
   - 由于ADOFAI.EditorTweaks.ChartRendering模块被并入CheryTools，安装CheryTools mod时也可以进行回放渲染了。若安装了ADOFAI.EditorTweaks.ChartRendering，仍将优先调用ADOFAI.EditorTweaks.ChartRendering
   - 现在加载mod时除了检查补丁有效性还会检查二进制兼容性，若检测到兼容性问题（和补丁失效警告类似，这通常代表mod版本与游戏版本不适配）会弹窗警告。
+  - 更改了默认存储路径，现在会将回放文件保存在saves文件夹中，防止回放文件和模组文件混在一起导致误删。此路径仍然位于mod文件夹内，因此若你不希望在卸载模组时丢失数据，仍需要手动更改存储路径。
   - 更改了部分日志消息的输出位置，debug模式中加入了显示调试信息的功能。
   - 修复了2.10~2.15版本中即使谱面的变速和旋转信息错误也能通过校验的bug。
   - 修复了此前所有版本中延时保存会导致文件被保存两次的bug。
