@@ -4,7 +4,7 @@
       "Id": "CreplayMod",
       "Version": "2.17",
       "DownloadUrl": "https://github.com/potatoonadofai/Creplay-mod/releases/download/v2.17/Creplay.v2.17.zip",
-      "Changes": "v2.17 update\n修复切换场景时消息提示会消失的问题\n更改了兼容性警告的实现方式\n修复上个版本更新后可能出现的播放模式下结算画面不显示爆紫数量的bug"
+      "Changes": "v2.17 update\n修复切换场景时消息提示会消失的问题\n更改了兼容性警告的实现方式\n修复上个版本更新后可能出现的播放模式下结算画面不显示爆紫数量的bug\n加宽了设置界面的按钮"
     }
   ]
 }
